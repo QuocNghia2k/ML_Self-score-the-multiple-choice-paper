@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\LeanPython\\Project\\modelCNN\\Modell_CNNs\\mymodel.tflearn"
+all_model_checkpoint_paths: "D:\\LeanPython\\Project\\modelCNN\\Modell_CNNs\\mymodel.tflearn"
